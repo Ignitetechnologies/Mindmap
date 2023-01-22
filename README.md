@@ -9,3 +9,5 @@ This repository will contain a collection of many types of mindmaps for cyber se
 [1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+
+![image](https://github.com/Ignitetechnologies/Mindmap/blob/main/mind.png?raw=true)
