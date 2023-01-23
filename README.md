@@ -1,6 +1,6 @@
 # Hackng Articles- Cyber Mindmap
 
-This repository will contain a collection of many types of mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
