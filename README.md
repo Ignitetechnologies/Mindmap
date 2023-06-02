@@ -10,4 +10,4 @@ This repository will contain many mindmaps for cyber security technologies, meth
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-![image](https://github.com/Ignitetechnologies/Mindmap/blob/main/Mindmap.jpg?raw=true)
+![image](https://github.com/Ignitetechnologies/Mindmap/blob/main/mind.jpg?raw=true)
